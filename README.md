@@ -19,11 +19,12 @@ We present the first systematic study of hybrid molecular features that fuse int
   - RMSE (for regression)
 
 ## Repository Structure
-
+```bash
 hybrid-molecular-representations/
 ├── hybrid_model.py         # Core script for training and evaluation
 ├── requirements.txt        # Required Python packages
 └── README.md               # Project description and instructions
+```
 
 ## Setup Instructions
 
